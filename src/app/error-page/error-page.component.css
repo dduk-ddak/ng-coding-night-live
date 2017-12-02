@@ -1,0 +1,8 @@
+.box {
+    background: #b4dbfd;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    max-width:400px;
+  }
